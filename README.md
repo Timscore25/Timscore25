@@ -1,15 +1,22 @@
 <h1 align="center">Hi 👋, I'm Nikola Kostov</h1>
 <h3 align="center">16-year-old front-end enthusiast from Bulgaria constantly pushing the boundaries of what can be achieved with code. Currently expanding my skillset by diving</h3>
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" </img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timscore25&label=Profile%20views&color=0e75b6&style=flat" alt="timscore25" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=timscore25" alt="timscore25" /></a> </p>
 
 - 🔭 I’m currently working on [WriteAI](https://github.com/Timscore25/WriteAI)
 
 - 🌱 I’m currently learning **React, Javascript, Typescript**
 
-- 📫 How to reach me **3088@gmail.com**
+- 👯 I’m looking to collaborate on [WriteAI](https://github.com/Timscore25/WriteAI)
+
+- 🤝 I’m looking for help with [WriteAI](https://github.com/Timscore25/WriteAI)
+
+- 👨‍💻 All of my projects are available at [https://github.com/Timscore25?tab=repositories](https://github.com/Timscore25?tab=repositories)
+
+- 💬 Ask me about **Anything CSS related**
+
+- 📫 How to reach me **3088nikola@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
