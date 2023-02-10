@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nikola Kostov</h1>
-<h3 align="center">16-year-old front-end enthusiast from Bulgaria constantly pushing the boundaries of what can be achieved with code. Currently expanding my skillset by diving</h3>
+<img align="center" alt="Coding" width="1000" src="https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg" </img>
+<h3 align="center">16-year-old front-end enthusiast from Bulgaria</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" </img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timscore25&label=Profile%20views&color=0e75b6&style=flat" alt="timscore25" /> </p>
@@ -32,5 +33,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=timscore25&show_icons=true&locale=en&layout=compact" alt="timscore25" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=timscore25&show_icons=true&locale=en" alt="timscore25" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=timscore25&" alt="timscore25" /></p>
