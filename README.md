@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Nikola Kostov</h1>
-<h3 align="center">16-year-old front-end enthusiast from Bulgaria</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timscore25&label=Profile%20views&color=0e75b6&style=flat" alt="timscore25" /> </p>
 
 - 🔭 I’m currently working on [Frontend Mentor](https://github.com/Timscore25/Frontend-Mentor)
